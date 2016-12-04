@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhang\AndroidStudioProjects\BaiduSpeech\app\libs\VoiceRecognition-2.2.1027.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f9b1c29b100261e0c7243d5328766f340be9a58">
+        <dex dex="C:\Users\zhang\AndroidStudioProjects\BaiduSpeech\app\build\intermediates\transforms\dex\debug\folders\1000\2\VoiceRecognition-2.2.1027_d8deebbe05dcbf8d4d3cdc32500a65975784bcea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhang\AndroidStudioProjects\BaiduSpeech\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7ac60c29053c1233b26a268ab5988c3710c70a75">
+        <dex dex="C:\Users\zhang\AndroidStudioProjects\BaiduSpeech\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a4a36a5fd2edef3261dfa685a2ed243d86fd6d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zhang\AndroidStudioProjects\BaiduSpeech\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48423cb188ca5a9461f1a5832d5006f92652b41f">
+        <dex dex="C:\Users\zhang\AndroidStudioProjects\BaiduSpeech\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_54e4092bf5ae596fa64d7b56cc96f3bcb7db93ab\classes.dex" />
+    </item>
+
+</items>

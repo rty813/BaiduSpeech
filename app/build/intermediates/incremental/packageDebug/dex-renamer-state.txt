@@ -1,0 +1,7 @@
+#Sun Dec 04 21:03:23 CST 2016
+base.0=C\:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a4a36a5fd2edef3261dfa685a2ed243d86fd6d14
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54e4092bf5ae596fa64d7b56cc96f3bcb7db93ab\\classes.dex
+base.1=C\:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_54e4092bf5ae596fa64d7b56cc96f3bcb7db93ab
+file.0=C\:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a4a36a5fd2edef3261dfa685a2ed243d86fd6d14\\classes.dex

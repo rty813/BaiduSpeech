@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bdspeech_suggestion_item.xml",
+        "source": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\src\\main\\res\\layout\\bdspeech_suggestion_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sdk2_api.xml",
+        "source": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\src\\main\\res\\layout\\sdk2_api.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bd_asr_popup_speech.xml",
+        "source": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\src\\main\\res\\layout\\bd_asr_popup_speech.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bdspeech_digital_layout.xml",
+        "source": "C:\\Users\\zhang\\AndroidStudioProjects\\BaiduSpeech\\app\\src\\main\\res\\layout\\bdspeech_digital_layout.xml"
+    }
+]
